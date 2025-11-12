@@ -27,5 +27,12 @@ Since it was a single data set no modelling was done.
 ## Analysis and Visualization
 ![](farm_image.png)
 
+## Conclusion
+- More Sales are made in the month of May and the least sales are made in the month of April
+- United States makes more sales than other Countries while New Zealand generate the least amount
+- Banana is the product that makes the highest revenue.
+- Not all countries are making sales on the seven products
+- Of the two categories of products fruits and vegetable, fruits generate more income. 
+
 
 
