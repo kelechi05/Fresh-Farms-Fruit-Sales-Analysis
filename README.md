@@ -25,6 +25,7 @@ Nothing was done as regards to missing values but a calculted column was created
 Since it was a single data set no modelling was done.
 
 ## Analysis and Visualization
+![](farm_image.png)
 
 
 
