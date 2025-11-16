@@ -1,5 +1,5 @@
 # Fresh-Farms-Fruit-Sales-Analysis
-![](fruit_farm.png)
+
 
 ## Introduction
 This project analysis brings out insights on sales performance on different products of Farm Fresh company across different countries
@@ -26,7 +26,7 @@ Nothing was done as regards to missing values but a calculted column was created
 Since it was a single data set no modelling was done.
 
 ## Analysis and Visualization
-![](farm_image.png)
+![](fruit_image.png)
 
 ## Conclusion
 - More Sales are made in the month of May and the least sales are made in the month of April
