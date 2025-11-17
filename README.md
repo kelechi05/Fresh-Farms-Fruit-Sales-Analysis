@@ -1,5 +1,5 @@
 # Fresh-Farms-Fruit-Sales-Analysis
-
+![](fruits.jpg)
 
 ## Introduction
 This project analysis brings out insights on sales performance on different products of Farm Fresh company across different countries
